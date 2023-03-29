@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IQ-Api.props" />
+</Project>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\USUARIO\Desktop\IQ\IQ-Api\IQ-Api\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-03-10T17:46:19.7558149Z;True|2023-03-10T12:24:39.2158015-05:00;True|2023-03-10T12:21:38.9730004-05:00;True|2023-03-10T11:37:01.1658252-05:00;True|2023-03-10T11:35:48.1308823-05:00;True|2023-03-09T16:14:14.4418931-05:00;True|2023-03-09T15:50:52.2832178-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
